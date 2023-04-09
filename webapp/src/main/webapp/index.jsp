@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>DevOps Page</title>
+    <title>Cloud Architect</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
     <header>
-      <h1>DevOps</h1>
+      <h1>Cloud Architect</h1>
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
           <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
           <li><a href="#">Blog</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
@@ -19,16 +20,29 @@
     </header>
     <main>
       <section>
-        <h2>What is DevOps?</h2>
-        <p>DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.</p>
+        <h2>What is a Cloud Architect?</h2>
+        <p>A Cloud Architect is responsible for the design, planning, and implementation of cloud-based solutions that meet business and technical requirements. They work with developers, engineers, and stakeholders to identify and implement cloud solutions that improve scalability, reliability, and security.</p>
       </section>
       <section>
-        <h2>Why use DevOps?</h2>
-        <p>DevOps helps organizations to improve their agility, reduce time-to-market, and increase their overall efficiency by breaking down silos between development, QA, and operations teams. This results in better collaboration and faster delivery of features and bug fixes.</p>
+        <h2>Services</h2>
+        <ul>
+          <li><a href="#">Cloud Strategy and Planning</a></li>
+          <li><a href="#">Cloud Infrastructure Design and Implementation</a></li>
+          <li><a href="#">Cloud Migration and Optimization</a></li>
+          <li><a href="#">Cloud Security and Compliance</a></li>
+        </ul>
+      </section>
+      <section>
+        <h2>Blog</h2>
+        <ul>
+          <li><a href="#">5 Key Benefits of Cloud Computing</a></li>
+          <li><a href="#">How to Plan Your Cloud Migration</a></li>
+          <li><a href="#">The Importance of Cloud Security</a></li>
+        </ul>
       </section>
     </main>
     <footer>
-      <p>&copy; 2023 DevOps Page</p>
+      <p>&copy; 2023 Cloud Architect</p>
     </footer>
   </body>
 </html>
