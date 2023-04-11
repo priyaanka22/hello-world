@@ -10,7 +10,7 @@
       <h1>Cloud Architect</h1>
       <nav>
         <ul>
-          <li><a href="#">Jhome</a></li>
+          <li><a href="#">Jjjhome</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Services</a></li>
           <li><a href="#">Blog</a></li>
