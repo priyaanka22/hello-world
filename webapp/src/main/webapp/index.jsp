@@ -7,7 +7,7 @@
   </head>
   <body>
     <header>
-      <h1>SOLUTION Architect</h1>
+      <h1>SOLUTION ARCH</h1>
       <nav>
         <ul>
           <li><a href="#">HOME</a></li>
