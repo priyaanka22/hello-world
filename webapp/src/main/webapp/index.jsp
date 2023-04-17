@@ -10,7 +10,7 @@
       <h1>Cloud Architect</h1>
       <nav>
         <ul>
-          <li><a href="#">rhom</a></li>
+          <li><a href="#">HOME</a></li>
           <li><a href="#">WhatAbout</a></li>
           <li><a href="#">SERVICESS</a></li>
           <li><a href="#">Blog</a></li>
