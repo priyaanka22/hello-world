@@ -11,7 +11,7 @@
       <nav>
         <ul>
           <li><a href="#">rhom</a></li>
-          <li><a href="#">About</a></li>
+          <li><a href="#">WhatAbout</a></li>
           <li><a href="#">Services</a></li>
           <li><a href="#">Blog</a></li>
           <li><a href="#">Contact</a></li>
