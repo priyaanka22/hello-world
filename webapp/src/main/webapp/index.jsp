@@ -10,7 +10,7 @@
       <h1>SOLUTION ARCH</h1>
       <nav>
         <ul>
-          <li><a href="#">HOME</a></li>
+          <li><a href="#">WHATHOMEISTHIS</a></li>
           <li><a href="#">WhatAbout</a></li>
           <li><a href="#">SERVICESS</a></li>
           <li><a href="#">Blog</a></li>
