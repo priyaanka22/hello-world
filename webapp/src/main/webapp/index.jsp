@@ -1,49 +1,57 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Cloud Solution Architect</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-  <body>
-    <header>
-      <h1>SOLUTION ARCH</h1>
-      <nav>
-        <ul>
-          <li><a href="#">WHATHOMEISTHIS</a></li>
-          <li><a href="#">WhatAbout</a></li>
-          <li><a href="#">SERVICESS</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
-    </header>
-    <main>
-      <section>
-        <h2>What is a Cloud Architect?</h2>
-        <p>A Cloud Architect is responsible for the design, planning, and implementation of cloud-based solutions that meet business and technical requirements. They work with developers, engineers, and stakeholders to identify and implement cloud solutions that improve scalability, reliability, and security.</p>
-      </section>
-      <section>
-        <h2>Services</h2>
-        <ul>
-          <li><a href="#">Cloud Strategy and Planning</a></li>
-          <li><a href="#">Cloud Infrastructure Design and Implementation</a></li>
-          <li><a href="#">Cloud Migration and Optimization</a></li>
-          <li><a href="#">Cloud Security and Compliance</a></li>
-        </ul>
-      </section>
-      <section>
-        <h2>Blog</h2>
-        <ul>
-          <li><a href="#">5 Key Benefits of Cloud Computing</a></li>
-          <li><a href="#">How to Plan Your Cloud Migration</a></li>
-          <li><a href="#">The Importance of Cloud Security</a></li>
-        </ul>
-      </section>
-    </main>
-    <footer>
-      <p>&copy; 2023 Cloud Architect</p>
-    </footer>
-  </body>
+<head>
+	<title>Login Form</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+		}
+		form {
+			background-color: #fff;
+			padding: 20px;
+			border-radius: 5px;
+			box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+			width: 300px;
+			margin: 0 auto;
+		}
+		label {
+			display: block;
+			margin-bottom: 10px;
+		}
+		input[type=text], input[type=password] {
+			padding: 10px;
+			width: 100%;
+			border: none;
+			border-radius: 3px;
+			margin-bottom: 20px;
+			box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+			font-size: 16px;
+		}
+		input[type=submit] {
+			background-color: #4CAF50;
+			color: #fff;
+			padding: 10px;
+			border: none;
+			border-radius: 3px;
+			cursor: pointer;
+			font-size: 16px;
+		}
+		input[type=submit]:hover {
+			background-color: #3e8e41;
+		}
+	</style>
+</head>
+<body>
+    <h1>My First Tomcat project!!</h1>
+	<h2>Login Form</h2>
+	<form>
+		<label for="username">Username:</label>
+		<input type="text" id="username" name="username">
+		<label for="password">Password:</label>
+		<input type="password" id="password" name="password">
+		<input type="submit" value="Submit">
+	</form>
+</body>
 </html>
 
